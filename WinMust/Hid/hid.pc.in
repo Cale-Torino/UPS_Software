@@ -1,0 +1,6 @@
+Name: Hid
+Description: Hid
+Version: 0.1
+
+Requires: 
+Libs: -r:@expanded_libdir@/@PACKAGE@/Hid.dll
