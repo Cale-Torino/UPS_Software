@@ -12,7 +12,11 @@ https://github.com/clytras/LytraxIO_SerialConnect
 
 https://www.codeproject.com/Articles/1244702/How-to-Communicate-with-its-USB-Devices-using-HID
 
+MICROSOFT SDKs
+
 https://dotnet.microsoft.com/download/visual-studio-sdks
+
+https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-160
 
 https://github.com/Microsoft/Windows-driver-samples/tree/master/hid/hclient
 
