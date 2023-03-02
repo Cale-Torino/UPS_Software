@@ -3,6 +3,7 @@
 A repository containing uninterrupted power supply software lists.
 
 * UPSilon 2000 V5.4
+* ViewPower Management Software
 
 [<img src="img/ups.jpg" width="500"/>](img/ups.jpg)
 
@@ -15,3 +16,5 @@ A repository containing uninterrupted power supply software lists.
     * look for newer options
     * available SDK's
 
+* Links
+    * https://www.power-software-download.com/viewpower.html
