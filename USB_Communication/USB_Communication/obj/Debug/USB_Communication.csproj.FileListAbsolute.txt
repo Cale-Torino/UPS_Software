@@ -1,0 +1,11 @@
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\Debug\USB_Communication.exe.config
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\Debug\USB_Communication.exe
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\Debug\USB_Communication.pdb
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.csproj.AssemblyReference.cache
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.csproj.SuggestedBindingRedirects.cache
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.GUI.resources
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.Properties.Resources.resources
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.csproj.GenerateResource.cache
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.csproj.CoreCompileInputs.cache
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.exe
+C:\Users\User501\Documents\GitHub\UPS_Software\USB_Communication\USB_Communication\obj\Debug\USB_Communication.pdb

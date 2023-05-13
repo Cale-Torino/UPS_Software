@@ -1,0 +1,2 @@
+C:\Users\User501\Documents\GitHub\UPS_Software\WinMust\Hid\obj\Debug\Hid.net.csproj.AssemblyReference.cache
+C:\Users\User501\Documents\GitHub\UPS_Software\WinMust\Hid\obj\Debug\Hid.net.csproj.CoreCompileInputs.cache
